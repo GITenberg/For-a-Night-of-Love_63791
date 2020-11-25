@@ -1,6 +1,9 @@
 _repo: For-a-Night-of-Love_63791
 _version: 0.1.0
 alternative_title: Pour une nuit d'amour. English
+covers:
+- cover_type: archival
+  image_path: 63791-h/images/night_cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Émile_Zola
     - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63791#For-a-Night-of-Love
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
