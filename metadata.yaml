@@ -1,0 +1,32 @@
+_repo: For-a-Night-of-Love_63791
+_version: 0.0.1
+alternative_title: Pour une nuit d'amour. English
+creator:
+  author:
+    agent_name: Zola, Émile
+    aliases:
+    - Zola, Émile Édouard Charles Antoine
+    - Zola, Emile
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Émile_Zola
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2020-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: For a Night of Love
+url: http://www.gutenberg.org/ebooks/63791
